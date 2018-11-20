@@ -8,7 +8,7 @@
     "generate": "graphqlgen"
   },
   "dependencies": {
-    "@types/jsonwebtoken": "^7.2.8",
+    "@types/jsonwebtoken": "^8.0.0",
     "bcrypt": "^3.0.0",
     "graphql": "^0.13.2",
     "graphql-yoga": "^1.16.1",
